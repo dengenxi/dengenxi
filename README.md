@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jessica</h1>
 
 <div align="center"> 
- <img height="160" src="https://github-readme-stats-cyan-zeta-82.vercel.app/api?username=jessicaliu2009&count_private=true&theme=tokyonight&show_icons=true&locale=cn&cache_seconds=14400" /> 
- <img height="160" src="https://github-readme-stats-cyan-zeta-82.vercel.app/api/top-langs/?username=jessicaliu2009&count_private=true&layout=compact&theme=tokyonight&locale=cn&hide=html,php,scss,freemarker" />
+ <img height="160" src="https://github-readme-stats-cyan-zeta-82.vercel.app/api?username=liuchutian09&count_private=true&theme=tokyonight&show_icons=true&locale=cn&cache_seconds=14400" /> 
+ <img height="160" src="https://github-readme-stats-cyan-zeta-82.vercel.app/api/top-langs/?username=liuchutian09&count_private=true&layout=compact&theme=tokyonight&locale=cn&hide=html,php,scss,freemarker" />
 </div>
